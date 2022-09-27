@@ -1,0 +1,12 @@
+/Users/kamilpantak/programming/rust/rustlings/target/debug/deps/console-b95018116a4eef21.rmeta: /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/Users/kamilpantak/programming/rust/rustlings/target/debug/deps/libconsole-b95018116a4eef21.rlib: /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/Users/kamilpantak/programming/rust/rustlings/target/debug/deps/console-b95018116a4eef21.d: /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs:
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs:
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs:
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs:
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs:
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs:

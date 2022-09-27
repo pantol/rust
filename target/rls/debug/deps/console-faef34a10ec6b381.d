@@ -1,0 +1,11 @@
+/Users/kamilpantak/programming/rust/rustlings/target/rls/debug/deps/console-faef34a10ec6b381.rmeta: /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/lib.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/common_term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/kb.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/unix_term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/utils.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/ansi.rs
+
+/Users/kamilpantak/programming/rust/rustlings/target/rls/debug/deps/console-faef34a10ec6b381.d: /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/lib.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/common_term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/kb.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/unix_term.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/utils.rs /Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/ansi.rs
+
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/lib.rs:
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/common_term.rs:
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/kb.rs:
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/term.rs:
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/unix_term.rs:
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/utils.rs:
+/Users/kamilpantak/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/ansi.rs:

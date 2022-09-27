@@ -1,0 +1,1 @@
+/Users/kamilpantak/programming/rust/rustlings/target/release/rustlings: /Users/kamilpantak/programming/rust/rustlings/src/exercise.rs /Users/kamilpantak/programming/rust/rustlings/src/main.rs /Users/kamilpantak/programming/rust/rustlings/src/run.rs /Users/kamilpantak/programming/rust/rustlings/src/ui.rs /Users/kamilpantak/programming/rust/rustlings/src/verify.rs
